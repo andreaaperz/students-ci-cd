@@ -1,5 +1,5 @@
 import uuid from 'uuid';
-import DBManager from '../manager/DBManager';
+import DBManager from '../managers/DBManager';
 
 const studentSchema = {
   id: {
